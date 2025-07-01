@@ -1,2 +1,5 @@
+
 # .gitignore
-ai_data_analysis_agent/.env
+.env
+__pycache__/
+*.pyc
