@@ -13,9 +13,6 @@ This is an interactive AI-powered data analysis tool that lets you upload any CS
 
 - ✅ Upload any CSV
 - ✅ Ask free-form questions like:
-  - "When was the coldest day?"
-  - "Show a chart of average rainfall by month"
-  - "What’s the correlation between wind speed and temperature?"
 - ✅ Visualizations when queries include "plot", "chart", "graph", etc.
 - ✅ Fuzzy query matching to correct column names
 - ✅ Session history of past questions and answers
