@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+python-dotenv
+requests
+streamlit
+pandas
+
+groq
+duckdb
+phi
+agno
